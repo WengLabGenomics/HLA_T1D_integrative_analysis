@@ -12,6 +12,7 @@ This repository contains scripts for analyzing HLA genetic associations, clinica
 2. HLA haplotype analysis
 3. Phenome-wide association analysis
 4. Single-cell eQTL analysis
+5. HLA risk cell-type enrichment analysis
 
 
 ## Requirements
